@@ -1,0 +1,42 @@
+ body {
+ 	background: rgba(255, 255, 255, 0.6);
+ }
+
+
+table {
+	border: 1px solid skyblue;
+	font-size: 35px;
+	border-collapse: collapse;
+	width: 100%;
+	margin-top: 40px;
+}
+
+td, th {
+	border: 1px solid #235;
+	padding: 20px;
+}
+
+tr > th {
+	background-color: #235895;
+	color: white;
+}
+
+.cabecalho {
+	font-weight: bold;
+}
+
+tfoot {
+	font-weight: bold;
+}
+
+td:first-child {
+	font-weight: bold;
+}
+
+table tr:nth-child(odd) {
+	background-color: lightblue;
+}
+
+table tbody tr:hover {
+	background-color: #235;
+}
