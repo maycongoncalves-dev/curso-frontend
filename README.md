@@ -23,6 +23,7 @@
    ## Criar conta no Github
 
    ## Clonar o projeto
+   git clone https://github.com/maycongoncalves-dev/curso-frontend.git
 
    ## Commits
    Informação de alteração
