@@ -31,6 +31,7 @@
    - git add *
    - git commit -m "mensagem"
    -git push (enviar alterações para o repositorio)
+   -git pull (puxar/ trazer alterações do Github para minha máquina)
 
 
    ## Gitflow 
