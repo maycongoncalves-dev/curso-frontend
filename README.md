@@ -45,22 +45,22 @@
    - DOD Definition of Done: critérios de aceite
    - versionamento 1.0.0
    
-   git checkout -b dev (cria uma branch)
-   git checkout master (mudar de branch)
+   - git checkout -b dev (cria uma branch)
+   - git checkout master (mudar de branch)
    
 
 
    ### Merge
-   Mescla de branchs
-   Você pode precisar resolver conflitos manualmente
+   - Mescla de branchs
+   - Você pode precisar resolver conflitos manualmente
 
-   git merge main
+   - git merge main
 
    ### Pull Request
-   Mescla de branchs no repositório
-   Permite code review
-   O repositório resolve os conflitos automaticamente
+   - Mescla de branchs no repositório
+   - Permite code review
+   - O repositório resolve os conflitos automaticamente
 
    ### configura o GitFlow
-   git flow init
-   git flow feature start {nome da-fetuare}
+   - git flow init
+   - git flow feature start {nome da-fetuare}
