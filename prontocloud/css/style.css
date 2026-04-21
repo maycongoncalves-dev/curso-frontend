@@ -61,6 +61,25 @@ p {
     line-height: 1.4;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tenho-interesse {
+    background-color: #b8c8d6;
+    width: 100%;
+}
+
+#tenho-interesse form,
+.cog-form__container{
+    background-color: #b8c8d6 !important;
+}
+
+html .cog-label, :root:root:root:root:root .cog-label {
+    color: #385874 !important;
+}
+
 ol {
     margin-left: 30px;
 }
@@ -126,4 +145,10 @@ footer p {
 footer small {
     font-size: 80%;
     display: block;
+
+}
+
+.cognito {
+    height: 390px;
+    overflow: hidden;
 }
